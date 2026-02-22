@@ -23,7 +23,7 @@ A Chrome extension to organize your Gemini AI chats into folders. Stop scrolling
 
 **Step 1:** Download and build
 ```bash
-git clone https://github.com/themayanksingh/gemini-project.git
+git clone https://github.com/themayanksingh/google-gemini-project.git
 cd gemini-project
 npm install
 npm run build
